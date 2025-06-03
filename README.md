@@ -11,8 +11,3 @@
 - 📁 Работа с данными в Excel / Google Sheets
 
 Проекты появятся в ближайшее время!
-data-analytics-portfolio/
-├── README.md
-├── sales-analysis/           ← анализ продаж
-├── user-retention-dashboard/ ← удержание пользователей
-├── fitness-data-report/      ← отчёт по фитнес-данным
